@@ -29,4 +29,12 @@ This folder contains my cloud computing class activities and laboratory exercise
 **Terminal Evidence**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ab86f19-30f3-4356-ae38-b932268ce55d" />
 
+## Checkpoint 3 – Build Your Workspace
+
+**Workspace Structure Created**
+* Directories: `jhroldan`, `Notes`, `Reports`, `Screenshots`
+* File Created: `Notes/about-me.md`
+
+**Terminal Evidence**
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/982e16ea-ea5c-4061-a0c5-bda4675a8cb6" />
 
